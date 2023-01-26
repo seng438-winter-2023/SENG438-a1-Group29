@@ -38,7 +38,7 @@ functional testing before this lab
 
 # High-level description of the exploratory testing plan
 
-Text…
+We are going to test each of the ATM functions using both card 1 and card 2 interacting with each of the available accounts to interact with. Then we will be testing if the system. Testing if there is good error handling like if they put in a wrong card number or the wrong password for a card. 
 
 # Comparison of exploratory and manual functional testing
 
