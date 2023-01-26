@@ -33,8 +33,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+We understand that manual testing can be done in two different ways. Either unscripted which is the first part of the lab or unscripted which is the second part of the lab. Unscripted testing is doing testing where you do whatever you want to test out whether the functionality of the system bugs. Scripted testing is a pre-planned testing format where you have specific actions to setup the test and specific functions to be tested. Then with regression testing we understand that it is a repeat test of previous bugs that are found during your previous either manual or unit testing. 
 
 # High-level description of the exploratory testing plan
 
