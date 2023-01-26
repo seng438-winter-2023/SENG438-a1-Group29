@@ -33,11 +33,11 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-We understand that manual testing can be done in two different ways. Either unscripted which is the first part of the lab or unscripted which is the second part of the lab. Unscripted testing is doing testing where you do whatever you want to test out whether the functionality of the system bugs. Scripted testing is a pre-planned testing format where you have specific actions to setup the test and specific functions to be tested. Then with regression testing we understand that it is a repeat test of previous bugs that are found during your previous either manual or unit testing. 
+We understand that manual testing can be done in two different ways. Either unscripted exploaratory testing which is the first part of the lab or unscripted which is the second part of the lab. Unscripted testing is doing testing where you do whatever you want to test out whether the functionality of the system bugs. Scripted testing is a pre-planned testing format where you have specific actions to setup the test and specific functions to be tested. Then with regression testing we understand that it is a repeat test of previous bugs that are found during your previous either manual or unit testing. 
 
 # High-level description of the exploratory testing plan
 
-We are going to test each of the ATM functions using both card 1 and card 2 interacting with each of the available accounts to interact with. Then we will be testing if the system. Testing if there is good error handling like if they put in a wrong card number or the wrong password for a card. 
+We are going to test each of the ATM functions using both card 1 and card 2 interacting with each of the available accounts to interact with. Then we will be testing if the system. Testing if there is good error handling like if they put in a wrong card number or the wrong password for a card.
 
 # Comparison of exploratory and manual functional testing
 
