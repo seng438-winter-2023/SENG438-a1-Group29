@@ -4,10 +4,10 @@
 
 | Group: Group Number: 29 |
 |-----------------|
-| Evan                |   
-| Abdullah            |   
-| Jack                |   
-| Max                 |   
+| Evan Lester 30090133|   
+|Abdullah Khubaib 30094830|   
+| Maxwell Couture 30113939|   
+| Jack McLean 30113555|   
 
 
 **Table of Contents**
