@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: Group Number: 29 |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Evan                |   
+| Abdullah            |   
+| Jack                |   
+| Max                 |   
 
 
 **Table of Contents**
@@ -50,7 +50,7 @@ Efficiency:
 Exploratory testing is more efficient than manual scripted testing as with exploratory testing your are able to right away go into the system and test all of the functionalities that you can see without having to build a script out like you do in manual function testing.
 
 Coverage:
-In exploratory testing it is alot harder to know that you have done a full coverage of testing for the system without a script of all the functions that you should be testing and what to do for those tests. For manual function testing you have a script and it is really easy to build out that script to include all functionality that you wish to test without having to make a high level plan. Manual function testing has better coverage than exploratory.
+In exploratory testing it is a lot harder to know that you have done a full coverage of testing for the system without a script of all the functions that you should be testing and what to do for those tests. For manual function testing you have a script and it is really easy to build out that script to include all functionality that you wish to test without having to make a high level plan. Manual function testing has better coverage than exploratory.
 
 Tradeoffs:
 
@@ -60,17 +60,24 @@ As explained before the big tradeoff between manual function testing and explora
     system, containing all defects recorded in the system.
 
 # Notes and discussion of the peer reviews of defect reports
+We discuessed that each bug report should have the following information:
+Whats being tested
+Initial State
+Steps to reproduce
+Expected Output
+Actual Output
 
-Text…
+As initially some of our bug reports were missing some of this information we were able to fix this with some peer review
 
 # How the pair testing was managed and team work/effort was divided 
-
-Text…
+For the Pair testing we split into two groups Evan and Abdullah were one group and Max and Jack were another. From there we came up with a high level testing plan for our initial exploratory testing and split the scripted testing in half for each group to preform. With the plan of coming back together after the fact to get rid of any duplicate bug reports that were made and finishing up the lab report on a seperate date.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+The difficulties encountered were at first we didn't know whether we should be reporting on any syntax errors and how overcame this is by talking to the TA's during lab on whether we should be reporting on this. The lesson learned was that yes we should be reporting on syntax errors.
+
+We had difficulties knowing when to stop the exploratory testing, each group commpleted around a half an hour of exploratory testing but we were unsure of whether this was enough.
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+We had a lot of fun doing this lab, the lab was prepared very well and it was very easy to understand exactly what was expected of us to do and the steps in which to complete this lab. The only comment we have is maybe changing the format to be on D2L rather than on Github. 
